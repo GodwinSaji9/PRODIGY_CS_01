@@ -10,12 +10,12 @@ This project is designed to be simple, beginner-friendly, and educational, helpi
 
 The Caesar Cipher is named after Julius Caesar, who used it around 58–50 BC to protect military communications.
 Each letter in the plaintext is shifted by a fixed number (key). For example, with a shift of 3:
-A → D
-B → E
+A → D;
+B → E;
 Z → C
 Although it is not secure by modern standards, it is a foundational concept in cryptography and helps in understanding:
-  Substitution ciphers
-  Symmetric encryption
+  Substitution ciphers;
+  Symmetric encryption;
   Key-based encryption systems
 
  # Features
@@ -23,8 +23,8 @@ Although it is not secure by modern standards, it is a foundational concept in c
 Encrypt text using a user-defined shift value
 Decrypt encrypted text using the same shift value
 Preserves:
-Uppercase letters
-Lowercase letter
+Uppercase letters,
+Lowercase letter,
 Spaces and special characters
 Simple logic without external libraries
 
@@ -32,7 +32,7 @@ Simple logic without external libraries
 
 Python 3
 Basic concepts:
-Loops
-Conditional statements
-ASCII values
+Loops,
+Conditional statements,
+ASCII values,
 String manipulation
